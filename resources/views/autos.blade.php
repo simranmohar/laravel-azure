@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('content') 
-<h1>Autos</h1>
+<h1 class="text-white bg-dark">Autos</h1>
 <table class="table table-striped">
     <tr>
         <th>ID</th>
